@@ -14,7 +14,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254792515335?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
@@ -22,7 +22,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{mouricedevs}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{@Jalamo-254}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
 
 ---
 
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md"><b>Gifted-Md V.2.5.0</b></a> Support Deploy On...
+  <a href="https://github.com/@Jalamo-254/Gifted-Md"><b>Gifted-Md V.2.5.0</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 
  <h3>Gifted-MD V.2.5.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=@Jalamo-254&repo=Gifted-Md&show_owner=true&theme=dark)
 
 
 
@@ -83,7 +83,7 @@
    
 ## Gifted-Md V.2.5.0 Deployment Methods
 ---
-1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
+1.  ***Fork Repo [`CLICK HERE`](https://github.com/@Jalamo-254/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
 3. ***Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
@@ -100,7 +100,7 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+- [Gifted Tech](https://github.com/@Jalamo-254) 
 
 ---
 ### Credits to:
